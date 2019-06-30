@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloud-Test.iml" filepath="$PROJECT_DIR$/.idea/SpringCloud-Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product/client/client.iml" filepath="$PROJECT_DIR$/product/client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order/oder-common/oder-common.iml" filepath="$PROJECT_DIR$/order/oder-common/oder-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order/order.iml" filepath="$PROJECT_DIR$/order/order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order/order-client/order-client.iml" filepath="$PROJECT_DIR$/order/order-client/order-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order/order-client/order-client.iml" filepath="$PROJECT_DIR$/order/order-client/order-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order/order-common/order-common.iml" filepath="$PROJECT_DIR$/order/order-common/order-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order/order-common/order-common.iml" filepath="$PROJECT_DIR$/order/order-common/order-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order/order-server/order-server.iml" filepath="$PROJECT_DIR$/order/order-server/order-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product/product.iml" filepath="$PROJECT_DIR$/product/product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product/product-common-study/product-common-study.iml" filepath="$PROJECT_DIR$/product/product-common-study/product-common-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product/product-server/product-server.iml" filepath="$PROJECT_DIR$/product/product-server/product-server.iml" />
+    </modules>
+  </component>
+</project>
